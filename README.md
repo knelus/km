@@ -1,6 +1,6 @@
-Kennismanagement systeem
-========================
+Knowledge management systeem
+============================
 
-Een kennismanagement systeem voor Stenden
+Knowledge management system for Stenden University.
 
-Voor aanpassingen, forken en pull request sturen
+To improve this project, fork it and send a pull request.
