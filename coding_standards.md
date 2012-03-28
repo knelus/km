@@ -19,21 +19,21 @@ Examples
 Comments
 --------
 
- // Variable that holds the current user
+	// Variable that holds the current user
 
- /**
-  * This functions returns a single article
-  * @param <int> the id of a article
-  * @return a article
-  * @author Tonko Mulder <tonko@tonkomulder.nl>
-  */
+	/**
+	 * This functions returns a single article
+	 * @param <int> the id of a article
+	 * @return a article
+	 * @author Tonko Mulder <tonko@tonkomulder.nl>
+	 */
 
 No camelCase
 ------------
 
- public function show_all_articles()
- {
-   // Code..
- }
+	public function show_all_articles()
+	{
+		// Code..
+	}
 
 
